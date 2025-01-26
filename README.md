@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @winbo-yml-exe
+- 👋 Hi, I’m @winbo-yml
 - 👀 I’m interested in doing weird stuff with tech
 - 🌱 I’m currently learning HTML and CSS
 - 📫 Email me @ winbo.yml@proton.me
