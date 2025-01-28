@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @winbo-yml
+- 👋 Hi, I’m @komaru-meow
 - 👀 I’m interested in doing weird stuff with tech
 - 🌱 I’m currently learning HTML and CSS
-- 📫 Email me @ winbo.yml@proton.me
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I made so much accounts on the web with the same password that it got added to the commonly used passwords list
