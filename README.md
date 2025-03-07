@@ -6,11 +6,11 @@
 # 📖 Info about me
 - My country: Poland
 - What I do: Anything I think of.
-- Telegram username: @pinemyass
+- Telegram username: @pinemyass1
 - My phone: Redmi 7A (xiaomi-pine on [the postmarketOS wiki](https://wiki.postmarketos.org/wiki/Xiaomi_Redmi_7A_(xiaomi-pine)))
 - Timezone: GMT+1
 
-# 🔥 My tech stack
+# 💻 My tech stack
 <div>
   <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-plain.svg" />
   <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
