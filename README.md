@@ -1,4 +1,8 @@
 <div align="center">
+  <img height="" src="https://profile-counter.glitch.me/komaru-meow/count.svg"  />
+</div>
+
+<div align="center">
   <h1>Hello, world! 👋</h1>
   <img src="https://files.enderman.ch/wallpapers/Sky.png" alt="A nice, sky wallpaper from Endermanch.">
 </div>
